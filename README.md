@@ -27,7 +27,7 @@ This project was developed using Microsoft Power BI for data preparation, analys
 
 Dashboard Preview
 
-![Road Accident Dashboard](road-accidents-screenshot/dashboard.png)
+![Road Accident Dashboard](road-accident-screenshots/dashboard.png)
 
 The Power BI file can be downloaded from this repository and opened using Power BI Desktop to explore the report and its underlying visualisations.
 
